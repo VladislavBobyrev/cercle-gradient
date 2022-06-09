@@ -4,7 +4,7 @@ Loader с градиентным индикатором
 
 <div align="left">
 
-![Lax 2.0 Gif](./README/readme.gif)
+![Lax 2.0 Gif](./readme.gif)
 
 #
 
